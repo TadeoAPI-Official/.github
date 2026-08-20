@@ -16,3 +16,4 @@ Podemos entrenar ia hacerla autonoma etc., Podemos hacer lo que sea.
 
 ##### Proyectos
 ChatGPT Autonomous - "AI is boring. how about is autonume and its perfect for an autonume assistant friend." - Beta release. ❗️
+
