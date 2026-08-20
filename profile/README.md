@@ -14,3 +14,5 @@ Codificar, Hacemos repos en especial Github & vercel, Usando HTML5 + CSS + JS y 
 #### Que podemos hacer?
 Podemos entrenar ia hacerla autonoma etc., Podemos hacer lo que sea. 
 
+##### Proyectos
+ChatGPT Autonomous - "AI is boring. how about is autonume and its perfect for an autonume assistant friend." - Beta release. ❗️
