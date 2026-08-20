@@ -6,7 +6,7 @@ Somos la organización detrás de [TadeoAPI](https://api-tadeo.edgeone.dev) y es
 ## Que hacemos?
 Codificar, Hacemos repos en especial Github & vercel, Usando HTML5 + CSS + JS y mas. Podemos entrenar la ia y hacerla viva. Y lo que sabemos es mucho.
 
-### Las Máscara Detrás De Esto
+### Las Máscaras Detrás De Esto
 
 [TadeoAPI/TadeoModder (Dueño)](https://github.com/tadeoapi)<br>
 [PolskieG (Maestro de codificacion)](https://github.com/PolskieG)
